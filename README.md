@@ -49,16 +49,17 @@ main()
 
 ## Data sources and AI methods
 
-The source for the data in this project is [BoardGameGeek](https://boardgamegeek.com) website. Its database can be accessed through two different APIs: [BGG XML API](https://boardgamegeek.com/wiki/page/BGG_XML_API) and [BGG XML API2](https://boardgamegeek.com/wiki/page/BGG_XML_API2), which is in beta phase. Importat data to collect would be at least board games and user ratings for the games. Potentially beneficial are also board game details such as game designer, play time, number of players.
+The source for the data in this project is [BoardGameGeek](https://boardgamegeek.com) website. Its database can be accessed through two different APIs: [BGG XML API](https://boardgamegeek.com/wiki/page/BGG_XML_API) and [BGG XML API2](https://boardgamegeek.com/wiki/page/BGG_XML_API2), which is in beta phase. Important data to collect would be at least board games and user ratings for the games. Potentially beneficial are also board game details such as game designer, play time, number of players.
 
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+For the recommendation algorithm, the greatest challenge is to provide meaningful recommendations to the users. Not so that all users will get the same recommendations, but so that the user input actually has an effect for the outcome.
+
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+There are a long list of various data items in the BoardGameGeek database that could be included as a source item for the algorithm. Further goal could be to have the algorithm so successful that it gets integrated into a part of the BGG website.
 
 
 ## Acknowledgments
