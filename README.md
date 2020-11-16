@@ -5,17 +5,16 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Similar to many online databases, BoardGameGeek.com has a huge amount of content, which is only as useful as users are able to find content they like in it. This project proposes an AI based recommendation tool for finding similar board games or like minded board gamers. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Typical board game user might have a favourite game they like, and are willing to find similar games. Or as another use case, they might know some opinion leader and want to find other users they like to follow, with similar taste in board games.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Board games are a personal hobby of mine, and there are always new games waiting to be discovered. Providing an effective tool to find them will benefit a wide group of board game hobbyists.
+
+As an AI problem this probably is not the most important, but trying to keep the focus small will make it easier to complete the project.
 
 
 ## How is it used?
