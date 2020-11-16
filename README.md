@@ -48,14 +48,9 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The source for the data in this project is [BoardGameGeek](https://boardgamegeek.com) website. Its database can be accessed through two different APIs: [BGG XML API](https://boardgamegeek.com/wiki/page/BGG_XML_API) and [BGG XML API2](https://boardgamegeek.com/wiki/page/BGG_XML_API2), which is in beta phase. Importat data to collect would be at least board games and user ratings for the games. Potentially beneficial are also board game details such as game designer, play time, number of players.
+
 
 ## Challenges
 
