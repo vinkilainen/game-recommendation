@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Similar to many online databases, BoardGameGeek.com has a huge amount of content, which is only as useful as users are able to find content they like in it. This project proposes an AI based recommendation tool for finding similar board games or like minded board gamers. 
+Similar to many online databases, BoardGameGeek.com has a huge amount of content, which is only as useful as users are able to find content they like in it. This project proposes an AI based recommendation tool for finding similar board games. 
 
 
 ## Background
